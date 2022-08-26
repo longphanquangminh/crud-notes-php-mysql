@@ -12,7 +12,7 @@
     </head>
     <body>
         <header> 
-            Notes App
+            Notes App - Made by Phan Quang Minh Long
         </header>
         <div>
                 <div>
