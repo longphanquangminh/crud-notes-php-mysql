@@ -7,12 +7,12 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Notes App - Made by Phan Quang Minh Long</title>
+        <title>Notes App - Made by Phan Quang Minh Long!</title>
         <link rel="stylesheet" href="styles/style.css">
     </head>
     <body>
         <header> 
-            Notes App - Made by Phan Quang Minh Long
+            Notes App - Made by Phan Quang Minh Long!
         </header>
         <div>
                 <div>
